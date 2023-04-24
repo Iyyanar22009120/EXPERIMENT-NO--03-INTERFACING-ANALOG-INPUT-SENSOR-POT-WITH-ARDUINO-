@@ -79,10 +79,11 @@ CIRCUIT DIAGRAM
 
 **
 **Simulation output:** 
-**
 
 
-[My image](username.github.com/repository/img/image.jpg)
+![Uploading after stim.png…]()
+
+
 
 
 
