@@ -1,4 +1,4 @@
-# EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
+# EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
 
 
 
@@ -103,7 +103,7 @@ int ledPin= 2;
 
 
 
-## Simulation output:** 
+## Simulation output: 
 
 ## before stimulation
 ![before stim](https://user-images.githubusercontent.com/118680259/234004026-684dab30-10c9-4f3e-95cc-14c4648342ef.png)
@@ -119,4 +119,5 @@ int ledPin= 2;
 
 
 
-## RESULT: Arduino uno analog input functioning is learned and interfaced with digital input switch .
+## RESULT:
+Arduino uno analog input functioning is learned and interfaced with digital input switch .
